@@ -1,0 +1,25 @@
+
+body{
+    margin: 50px;
+    background: black;
+    color: white;
+}
+.avatar{
+    width: 250px;
+}
+.card{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0 auto;
+
+    border-bottom: 6px solid white;
+    border-top: 6px solid white;
+    border-left: 6px solid pink;
+    border-right: 6px solid plum;
+}
+
+.div1{
+    text-align: center;
+}
